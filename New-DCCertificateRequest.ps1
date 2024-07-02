@@ -55,7 +55,6 @@
     https://github.com/poolmanjim/New-DCCertificateRequest.ps1
 
     .NOTES
-    Created By: Tyler Jacobs
     Created On: 10/28/2021
     Last Updated: 05/25/2022
     Version: 1.1.0
